@@ -10,7 +10,7 @@
 - ⭐ **31 Stars & counting...**  
 - 🏅 Participated in **SIH (Smart India Hackathon)**  
 - 🏅 Participated in **ISSM Ghaziabad Hackathon** – built an **AI Resume Analyzer**  
-- 🛠 Built projects like **Uber Clone, Zomato Clone, Job Portal, Scratch Projects, Bag Selling E-Commerce Website**  
+- 🛠 Built projects like **Uber Clone, Zomato Clone, Job Portal, Scratch Projects (Bag Selling E-Commerce Website)**  
 
 ---
 
@@ -34,7 +34,7 @@
 - 🍴 [Zomato Clone](https://github.com/raziquehasan/zomato)  
 - 💼 [Job Portal](https://github.com/raziquehasan/JOB-PORTAL)  
 - 🎮 [Scratch Projects](https://github.com/raziquehasan/scatch)  
-- 👜 [Bag Selling E-Commerce Website](#) (Coming Soon 🚀)  
+
 - 📚 [CDAC Syllabus](https://github.com/raziquehasan/syllabus-cdac)  
 
 ---
