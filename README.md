@@ -1,57 +1,71 @@
-# 👋 Hi there, I'm Razique Hasan  
+<div align="center">
 
-🚀 **B.Tech CSE (2023–2027)** @ **MACET, Patna**  
-💻 **Full-Stack Developer** | 🤖 **AI/ML Enthusiast** | 🌐 **Open Source Contributor**  
+<img src="https://www.google.com/search?q=https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" height="100" />
 
----
+<h1>
+Hey there, I'm Razique Hasan!
+<img src="https://www.google.com/search?q=https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
-## 🏆 Achievements
-- 🎯 **232+ Contributions** in the last year  
-- 🌟 **47+ Repositories** on GitHub  
-- ⭐ **31 Stars** & counting...  
-- 🏅 Participated in **SIH (Smart India Hackathon)**  
-- 🛠 Built projects like **Uber Clone, Zomato Clone, Job Portal, Scratch Projects**  
-
----
-
-## ⚡ Tech Stack  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-
----
-
-## 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raziquehasan&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raziquehasan&theme=radical" alt="Streak Stats" height="160"/>
+<p>
+I'm a passionate <strong>Full-Stack Developer</strong> and <strong>AI/ML Enthusiast</strong> from Patna, India 🇮🇳.
+<br />
+Currently pursuing my B.Tech in Computer Science & Engineering (2023-2027). I love building things for the web and exploring the fascinating world of artificial intelligence.
 </p>
 
----
+<!-- Dynamic Time Update Section -->
 
-## 🔥 Current Time in India  
-![India Time](https://img.shields.io/badge/dynamic/json?color=blue&label=India%20Time&query=%24.datetime&url=https%3A%2F%2Fworldtimeapi.org%2Fapi%2Ftimezone%2FAsia%2Fkolkata)
+<div>
+<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DInter%26size%3D18%26duration%3D4000%26color%3D33FF33%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DHappy%2Bto%2Bconnect%2Bwith%2Byou!+🚀;The+current+time+in+India+is...;<!--START_SECTION:time-->%0A<!--END_SECTION:time-->" alt="Typing SVG" />
+</div>
 
----
+</div>
 
-## 📌 Featured Projects
-- 🚖 [Uber Clone](https://github.com/raziquehasan/uber)  
-- 🍴 [Zomato Clone](https://github.com/raziquehasan/zomato)  
-- 💼 [Job Portal](https://github.com/raziquehasan/JOB-PORTAL)  
-- 🎮 [Scratch Projects](https://github.com/raziquehasan/scatch)  
-- 📚 [CDAC Syllabus](https://github.com/raziquehasan/syllabus-cdac)  
+📬 Find me around the web:
+<div align="center">
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/razique-hasan-758a0b282/" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-%25230077B5.svg%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
+</a>
+&nbsp;
+<!-- Add your Twitter/X link here if you have one -->
+<!-- <a href="YOUR_TWITTER_LINK" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Twitter-%25231DA1F2.svg%3Fstyle%3Dfor-the-badge%26logo%3DTwitter%26logoColor%3Dwhite" alt="Twitter"/>
+</a> -->
+&nbsp;
+<a href="mailto:raziquehasan@example.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+</div>
 
----
+💻 Languages and Tools:
+<p align="center">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dhtml,css,js,react,nodejs,express,py,tensorflow,mongodb,mysql,git,github,vscode,docker" />
+</p>
 
-## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/razique-hasan-73a2832a2/)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raziquehasan)  
+📊 My GitHub Stats & Achievements:
+<div align="center">
 
----
+<a href="https://github.com/raziquehasan">
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Draziquehasan%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue"/>
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Draziquehasan%26layout%3Dcompact%26langs_count%3D8%26theme%3Dtokyonight"/>
+</a>
 
-✨ _“Consistency is the key to mastery — I build projects daily to grow as a Full-Stack & AI/ML developer.”_  
+
+
+
+
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Draziquehasan%26theme%3Dtokyonight" alt="raziquehasan" />
+
+
+
+
+
+<a href="https://github.com/raziquehasan">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-Arctic%2520Code%2520Vault%2520Contributor-blue.svg%3Fstyle%3Dfor-the-badge%26logo%3Dgithub" alt="Arctic Code Vault Contributor"/>
+</a>
+</div>
+
+🐍 Watch my contributions get eaten by a snake!
+<div align="center">
+<img src="https://www.google.com/search?q=https://github.com/raziquehasan/raziquehasan/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+</div>
