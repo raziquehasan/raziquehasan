@@ -1,17 +1,33 @@
-# Hi 👋, I'm Razique Hasan  
+<h1 align="center">Hi 👋, I'm Razique Hasan</h1>
+<h3 align="center">🚀 Full Stack Developer | 🤖 AI/ML Enthusiast | 🏆 Hackathon Innovator</h3>
 
-💻 **Full-Stack Developer** | 🤖 **AI/ML Enthusiast** | 🚀 **Open Source Contributor**  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=raziquehasan&label=Profile%20Views&color=blueviolet&style=flat" />
+  <img src="https://img.shields.io/github/followers/raziquehasan?label=Followers&style=flat&color=blue" />
+  <img src="https://img.shields.io/github/stars/raziquehasan?label=Stars&style=flat&color=yellow" />
+</p>
+
+---
+
+## 👨‍💻 About Me  
+
+- 🎓 B.Tech IT Student  
+- 💻 Passionate Full Stack Developer  
+- 🏆 Smart India Hackathon (SIH) Participant  
+- 🔥 Building Real-World Scalable Apps  
+- 🤖 Exploring AI + SaaS Products  
+- 🌱 Currently working on **ZapChat & Code2Cash**
 
 ---
 
 ## 🏆 Achievements  
-- 🎯 **232+ Contributions** in the last year  
-- 🌟 **47+ Repositories** on GitHub  
-- ⭐ **31 Stars & counting...**  
-- 🏅 Participated in **SIH (Smart India Hackathon)**  
-- 🏅 Participated in **ISSM Ghaziabad Hackathon** – built an **AI Resume Analyzer**  
-- 🛠 Built projects like **Uber Clone, Zomato Clone, Job Portal, Scratch Projects, Bag Selling E-Commerce Website**  
-- 🔥 Recently started working with **Firebase** in my projects  
+
+- 🚀 230+ Contributions in last year  
+- 🌟 45+ GitHub Repositories  
+- ⭐ 30+ GitHub Stars  
+- 🏅 Smart India Hackathon (SIH) Participant  
+- 🏅 ISSM Hackathon – Built AI Resume Analyzer  
+- 🔥 Built multiple real-world products  
 
 ---
 
@@ -37,6 +53,39 @@
 
 ---
 
+## 🚀 Featured Projects  
+
+### 🔥 ZapChat — Real-Time Chat App  
+💬 WhatsApp-like real-time chat app  
+🔗 https://github.com/raziquehasan/Real-Time-chat-app  
+🌐 https://chatapp-eta-seven.vercel.app  
+
+---
+
+### 🏆 SIH Hackathon Project  
+🚀 National Level Innovation Project  
+🔗 (Add SIH repo link here)
+
+---
+
+### 🔐 OAuth Authentication System  
+🔒 Secure Login using Google & GitHub  
+🔗 https://github.com/raziquehasan/oauth  
+
+---
+
+### 💰 Code2Cash  
+📚 Coding + Monetization Platform  
+🔗 https://github.com/raziquehasan/code2cash  
+
+---
+
+### 🛒 One2Z — E-Commerce Platform  
+🛍 Full Stack Shopping Website  
+🔗 https://github.com/raziquehasan/one2z  
+
+---
+
 ## 📊 GitHub Stats & Achievements  
 
 <p align="center">
@@ -59,19 +108,17 @@
 
 ---
 
-## 📌 Featured Projects  
-- 🚖 [Uber Clone](https://github.com/raziquehasan/uber) *(Node.js + MongoDB)*  
-- 🍴 [Zomato Clone](https://github.com/raziquehasan/zomato) *(React + Firebase)*  
-- 💼 [Job Portal](https://github.com/raziquehasan/JOB-PORTAL) *(MERN Stack + Firebase)*  
-- 🎮 [Scratch Projects](https://github.com/raziquehasan/scatch) *(Scratch & JS)*  
-- 📚 [CDAC Syllabus](https://github.com/raziquehasan/syllabus-cdac)  
-
----
-
 ## 🤝 Let’s Collaborate  
-🚀 Always open to working on **exciting projects** & **open-source contributions**.  
-📬 Reach me at **[LinkedIn](https://www.linkedin.com/in/razique-hasan-73a2832a2/)**  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/razique-hasan-73a2832a2/">
+    <img src="https://img.shields.io/badge/LinkedIn-Razique%20Hasan-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:raziquehasan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
 
 ---
 
-✨ *“Consistency is the key — I keep building, learning & sharing to become better every day.”*  
+⭐ *"Building products, solving problems & creating impact with code."*  
